@@ -1,0 +1,8 @@
+flask
+flask-cors
+ollama
+chromadb
+sentence-transformers
+datasets
+numpy
+scikit-learn

@@ -1,0 +1,18 @@
+# Ignorer les fichiers Python et dépendances
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Ignorer les fichiers de ChromaDB
+chromadb_store/
+
+# Ignorer les fichiers du frontend
+node_modules/
+dist/
+build/
+
+# Ignorer les fichiers système macOS
+.DS_Store
